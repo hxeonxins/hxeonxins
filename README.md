@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.instagram.com/hxeonins/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-<a herf="hyunjin.dev143@gmail.com"><img src="https://img.shields.io/badge/mijin.develop@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a herf="hyunjin.dev143@gmail.com"><img src="https://img.shields.io/badge/hyunjin.dev143@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
